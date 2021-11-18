@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    mini_magick (4.11.0)
+    open3 (0.1.1)
+    rtesseract (3.1.2)
+
+PLATFORMS
+  universal-darwin-20
+
+DEPENDENCIES
+  mini_magick
+  open3
+  rtesseract
+
+BUNDLED WITH
+   2.2.25
+
+   configure --datadir=/usr/share/tesseract-ocr/5
